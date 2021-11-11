@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Plugin Name:       adrianpajares.com - Hide Shipping if Free Shipping
+ * Plugin Name:       adrianpajares.com - Remove Additional Information
  * Plugin URI:        https://adrianpajares.com/
- * Description:       Plugin to hide othe shipping method if free shipping is available.
+ * Description:       Plugin to remove at checkout the title and field "Additional Information".
  * Version:           1.0
  * Author:            adrianpajares.com
  * License:           MIT
